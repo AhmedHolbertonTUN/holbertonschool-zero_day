@@ -1,0 +1,1 @@
+This project help get familiar with vi commands.
